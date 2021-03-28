@@ -1,0 +1,14 @@
+.forecastCards > * {
+    display: inline-block;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+.card {
+    background-color: pink;
+    text-align: center;
+}
+
+.title, .cityLocation {
+    text-align: center;
+}
